@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body
+{
+	font-family: Tahoma, sans-serif;
+	background:url("https://img.freepik.com/free-vector/airplane-runway-poster_1284-9441.jpg?w=2000&t=st=1673810535~exp=1673811135~hmac=9795b9392a942cebce4bb5f64d5369c685217e2506446c6545c50fbbb0f456c8");
+	background-size:cover;
+	background-attachment: fixed;
+}
