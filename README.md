@@ -1,5 +1,5 @@
 # Flyaway.com
-<img alt = "Home Screen" src = "https://github.com/abhishekraj909/FlyawayP2/blob/main/Homepage.png">
+<img alt = "Home Screen" src = "https://github.com/abhishekraj909/flyAwayairline/blob/main/Homepage.png">
 ## Table of Contents
 
 - [General Info](#General-info)
