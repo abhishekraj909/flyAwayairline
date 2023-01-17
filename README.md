@@ -61,29 +61,6 @@ You must use the following:
 
 * Specification document: Any open-source document or Google Docs
 
-
-Following requirements should be met:
-
-* The source code should be pushed to your GitHub repository. You need to document the steps and write the algorithms in it.
-
-* The submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository. You can add a section in your document.
-
-* Document the step-by-step process starting from sprint planning to the product release.
-
-* Application should not close, exit, or throw an exception if the user specifies an invalid input.
-
-* You need to submit the final specification document which includes:
-
-    * Project and developer details
-
-    * Sprints planned and the tasks achieved in them
-
-    * Algorithms and flowcharts of the application
-
-    * Core concepts used in the project
-
-    * Links to the GitHub repository to verify the project completion
-
 ## Technologies
 
 Technologies used in project:
