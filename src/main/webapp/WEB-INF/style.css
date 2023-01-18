@@ -1,8 +1,35 @@
 @charset "UTF-8";
-body
-{
+
+body {
 	font-family: Tahoma, sans-serif;
 	background:url("https://img.freepik.com/free-vector/airplane-runway-poster_1284-9441.jpg?w=2000&t=st=1673810535~exp=1673811135~hmac=9795b9392a942cebce4bb5f64d5369c685217e2506446c6545c50fbbb0f456c8");
 	background-size:cover;
 	background-attachment: fixed;
+}
+
+@keyframes welcome-animation {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+h1 {
+  animation: welcome-animation 2s ease-in-out;
+  font-size: 3em;
+  text-align: center;
+}
+
+.welcome-animation {
+    animation: welcome-animation 2s ease-in-out;
+}
+.large-box {
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid red;
 }
